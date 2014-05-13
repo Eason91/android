@@ -65,6 +65,7 @@
   <project path="device/sample" name="device/sample" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
 
   <!-- C-RoM Devices -->
+ <!--
   <project path="device/htc/m7" name="X-ROM/android_device_htc_m7" />
   <project path="device/htc/m8spr" name="X-ROM/android_device_htc_m8spr" />
   <project path="device/htc/m8vzw" name="X-ROM/android_device_htc_m8vzw" />
@@ -105,7 +106,7 @@
   <project path="device/samsung/smdk4412-qcom-common" name="CyanogenMod/android_device_samsung_smdk4412-qcom-common" remote="cm" revision="cm-11.0" />
   <project path="device/semc/msm7x30-common" name="LegacyXperia/android_device_semc_msm7x30-common"  remote="gh" revision="cm-11.0" />
   <project path="device/semc/mogami-common" name="LegacyXperia/android_device_semc_mogami-common"  remote="gh" revision="cm-11.0" />
-  
+  -->
   <!-- Kernel Sources -->
 <!--
   <project path="kernel/samsung/aries" name="CyanogenMod/android_kernel_samsung_aries" remote="cm" revision="cm-11.0" />
